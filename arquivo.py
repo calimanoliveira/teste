@@ -2,4 +2,5 @@
 
 import ob
 import bpy
-import novo
+import teste
+
